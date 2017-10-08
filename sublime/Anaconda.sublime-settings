@@ -1,0 +1,16 @@
+{
+	"auto_formatting": true,
+	"autoformat_ignore":
+    [
+        "E309"
+    ],
+    "pep8_ignore":
+    [
+        "E101", // mixed whitespace and tab in indention
+        "E265", // whitespace after # in comments
+        "E266", // too many leading # in comments
+        "W291", // trailing white spaces
+        "E501", // line too long
+    ],
+    "anaconda_linter_mark_style": "solid_underline"
+}

@@ -1,0 +1,118 @@
+{
+	"added_words":
+	[
+		"Convolutional",
+		"Wikipedia",
+		"preprocess",
+		"learnt",
+		"coreference",
+		"infobox",
+		"infoboxes",
+		"lemmatized",
+		"Perceptron",
+		"lexicalization",
+		"disfluencies",
+		"l1",
+		"compositionality"
+	],
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.gz",
+		"*.cls",
+		".DS_Store",
+		"*.aux",
+		"*.bak",
+		"*.bbl",
+		"*.blg",
+		"*.dvi",
+		"*.glo",
+		"*.gls",
+		"*.idx",
+		"*.ilg",
+		"*.ind",
+		"*.ist",
+		"*.log",
+		"*.out",
+		"*.thm",
+		"*.toc",
+		"*.lof",
+		"*.lot",
+		"*.loe",
+		"*.vrb",
+		"*.hd",
+		"*.fdb_latexmk",
+		"*.fls",
+		"*.xdv",
+		"*.pdf",
+		"*.bst",
+		"*.dtx",
+		"*.ins",
+		"*.sty",
+		"*.def",
+		"latexmkrc",
+		"dtx-style.sty",
+		"thuthesis.cls",
+		"thuthesis.cfg"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		""
+	],
+	"ignored_words":
+	[
+		"Biperpedia",
+		"al",
+		"convolutional",
+		"delexicalization",
+		"delexicalize",
+		"hyponym",
+		"hyponyms",
+		"overfitting",
+		"sec4",
+		"softmax",
+		"tex",
+		"url",
+		"urlprefix",
+		"vertices"
+	],
+	"skin": "Boxy Theme/Boxy Yesterday ★ Atom",
+	"spell_check": true,
+	"swallow_startup_errors": true,
+	"theme": "Boxy Yesterday.sublime-theme",
+	"theme_accent_sky": true,
+	"theme_button_rounded": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_find_panel_size_xs": true,
+	"theme_grid_border_size_lg": true,
+	"theme_icon_button_highlighted": true,
+	"theme_icons_atomized": true,
+	"theme_popup_border_visible": true,
+	"theme_quick_panel_size_md": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_statusbar_size_md": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_prelined": true
+}

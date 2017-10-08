@@ -1,0 +1,4 @@
+[
+	{"keys": ["super+j"], "command": "prev_view"},
+	{"keys": ["super+k"], "command": "next_view"}
+]
